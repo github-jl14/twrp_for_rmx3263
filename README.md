@@ -7,4 +7,7 @@ realme C21Y (rmx3263) TWRP port (under development &amp; needs more developers t
 
 # UPDATES ON THE CODE
 
-`Once the repository has changes remove this line`
+
+**01.06.2024:**
+
+*Repository Created*
